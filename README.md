@@ -34,7 +34,7 @@ This webpage is developed to showcase basic knowldege of developing static webpa
 
 
 ## Setup
-You can run this program on your local machine by opening the index.html file on a browser
+You can run this program on your local machine by opening the index.html file on a browser having all the files
 
 
 ## Usage
@@ -42,7 +42,7 @@ Website displays info about an artist
 
 
 ## Project Status
-Project is: in progress
+Project is: Complete
 
 
 ## Room for Improvement
