@@ -17,7 +17,7 @@ Dasmoto's Arts & Crafts
 
 
 ## General Information
-This webpage is developed to showcase basic knowldege of developing static webpages. The website is a static website including information about an artist. 
+This webpage is developed to showcase basic knowledge of developing static webpages. The website is a static website including information about an artist. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
